@@ -1,0 +1,22 @@
+{
+    "authority": "music.youtube.com",
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "authorization": "SAPISIDHASH [YOUR_HASH_HERE]",
+    "content-type": "application/json",
+    "cookie": "SID=[PLACEHOLDER]; HSID=[PLACEHOLDER]; SSID=[PLACEHOLDER]; APISID=[PLACEHOLDER]; SAPISID=[PLACEHOLDER];",
+    "dnt": "1",
+    "origin": "https://music.youtube.com",
+    "priority": "u=1, i",
+    "referer": "https://music.youtube.com/",
+    "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"Google Chrome\";v=\"145\", \"Chromium\";v=\"145\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "same-origin",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+    "x-goog-authuser": "0",
+    "x-youtube-client-name": "67",
+    "x-youtube-client-version": "1.20260216.01.00"
+}
